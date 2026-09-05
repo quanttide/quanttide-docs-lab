@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-# 从 quanttide-founder 的 assets/fiction 同步小说正文到 data/series/
-# 用法：在 quanttide-founder 仓库根目录运行
-#   bash apps/qtfiction/scripts/sync-data.sh
-# 或在 qtfiction 内指定 fiction 源路径：
+# 从 quanttide-fiction-of-founder 的 assets/fiction 同步小说正文到 data/series/
+# 用法：在实验室仓库（quanttide-laboratory-of-document-engineering）运行
+#   bash apps/qtfiction/scripts/sync-data.sh SRC=/path/to/assets/fiction
+# 或直接指定 fiction 源路径：
 #   SRC=/path/to/assets/fiction bash scripts/sync-data.sh
 set -euo pipefail
 
