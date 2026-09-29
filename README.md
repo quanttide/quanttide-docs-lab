@@ -1,4 +1,4 @@
-# quanttide-laboratory-of-document-engineering
+# quanttide-docs-lab
 
 文档工程实验室。
 
